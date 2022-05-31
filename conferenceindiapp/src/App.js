@@ -4,7 +4,6 @@ import Register from './component/register'
 function App() {
   return (
     <div className="App">
-      <hi>Registration User</hi> 
       <Register/>
     </div>
   );
